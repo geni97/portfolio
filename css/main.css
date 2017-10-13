@@ -70,7 +70,7 @@ nav li {
   nav ul {
     width: 100%;
     text-align: center;
-    padding-right: 0.8em;
+    padding-right: 1.2em;
   }
 
   a:hover {
@@ -93,7 +93,7 @@ nav li {
   }
 
   .copywrite {
-    padding-top: 2em;
+    padding-top: 5em;
   }
 
   .copywrite1 {
@@ -106,10 +106,102 @@ nav li {
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-    padding-top: 5em;
+    padding-top: 3em;
     text-align: center;
   }
 
-  h3 {
-    padding-top: 2em;
+  .title {
+    padding-top: 0;
   }
+
+  .hi {
+    font-size: 2em;
+    font-weight: 500;
+  }
+
+  .contact {
+    padding-top: 3em;
+  }
+
+  @media only screen and (min-width: 38em) {
+
+  .gd {
+    margin-top: 20em;
+  }
+
+  .copywrite1 {
+    margin-top: 15em;
+  }
+
+  h2 {
+    font-size: 2em;
+  }
+
+  h1 {
+    font-size: 3em;
+  }
+
+  .title {
+    font-size: 1.5em;
+  }
+
+  nav {
+    font-size: 1.2em;
+  }
+
+}
+
+@media only screen and (min-width: 60em) {
+
+.gd {
+  margin-top: 40em;
+}
+
+.copywrite1 {
+  margin-top: 10em;
+  font-size: 1.5em;
+}
+
+.circle {
+  width: 70%;
+}
+
+.title {
+  padding-top: 0.5em;
+  padding-bottom: 3em;
+}
+
+
+.gd {
+  margin-top: 35em;
+}
+
+
+nav {
+  font-size: 1.5em;
+  padding-left: 1em;
+}
+
+h2 {
+  padding-bottom: 2em;
+}
+
+}
+
+@media only screen and (min-width: 90em) {
+
+.gd {
+  margin-top: 20em;
+}
+
+.copywrite1 {
+  margin-top: 30em;
+  font-size: 1.5em;
+}
+
+.circle {
+  width: 60%;
+}
+
+
+}

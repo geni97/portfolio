@@ -10,6 +10,7 @@ Hi! I'm Geni Triantis, Graphic Designer and Illustrator. I think the way your su
 - **[hello@geni.graphics](mailto:hello@geni.graphics)**
 - [Instagram](https://www.instagram.com/striped_daisies/)
 - [Behance](https://www.behance.net/tria00071e4c)
+- [Vimeo](https://vimeo.com/geni56681106)
 
 ---
 

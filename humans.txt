@@ -1,0 +1,18 @@
+# humantxt.org
+
+# TEAM
+
+Designer & Developer: Geni Triantis <hello@geni.graphics>
+Site: http://geni.graphics
+Location: Ottawa, Canada
+
+---
+
+#TECHNOLOGY
+
+## Software
+
+- Github
+- Jekyll
+
+## Hosting
